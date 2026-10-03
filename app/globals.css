@@ -8,8 +8,13 @@
   --color-muted: #667085;
   --color-line: #d9dde3;
   --color-alert: #b42318;
+  --color-verified: #087443;
+  --color-caution: #b54708;
   --font-serif: var(--font-serif-bn), serif;
   --font-ui: var(--font-ui-bn), sans-serif;
-  --color-verified: #087443;
---color-caution: #b54708;
+}
+
+html {
+  /* keeps anchors (like #corrections) clear of the sticky category bar */
+  scroll-padding-top: 4rem;
 }
