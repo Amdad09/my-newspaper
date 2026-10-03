@@ -1,0 +1,780 @@
+[
+    {
+        "id": "n-0001",
+        "slug": "city-rail-new-schedule",
+        "title": "নগর রেলের নতুন সময়সূচি কাল থেকে কার্যকর",
+        "summary": "সকালের ব্যস্ত সময়ে ট্রিপ বাড়িয়ে নতুন সূচি ঘোষণা করেছে কর্তৃপক্ষ।",
+        "content": [
+            "কর্তৃপক্ষের বিজ্ঞপ্তি অনুযায়ী সকাল সাতটা থেকে দশটার মধ্যে দুই ট্রেনের বিরতি কমানো হয়েছে।",
+            "যাত্রীদের মতামত নিয়ে তিন মাস পর সূচিটি আবার পর্যালোচনা করা হবে বলে জানানো হয়েছে।"
+        ],
+        "category": "bangladesh",
+        "tags": ["নগর রেল", "যাতায়াত"],
+        "kind": "news",
+        "verification": "verified",
+        "image": {
+            "src": "https://picsum.photos/seed/city-rail-new-schedule/1280/720",
+            "alt": "ডামি ছবি",
+            "width": 1280,
+            "height": 720,
+            "caption": "ডামি ছবি",
+            "credit": "ছবি: Picsum (ডামি)"
+        },
+        "author": {
+            "id": "dummy-reporter",
+            "name": "ডামি প্রতিবেদক"
+        },
+        "publishedAt": "2026-10-03T18:00:00+06:00",
+        "sources": [
+            {
+                "name": "ডামি বিজ্ঞপ্তি",
+                "type": "official",
+                "url": "https://example.com/city-rail-new-schedule"
+            }
+        ],
+        "featured": true,
+        "breaking": true,
+        "status": "published",
+        "isDummy": true,
+        "updatedAt": "2026-10-03T19:00:00+06:00",
+        "updates": [
+            {
+                "at": "2026-10-03T18:00:00+06:00",
+                "text": "প্রথম প্রতিবেদন প্রকাশ"
+            },
+            {
+                "at": "2026-10-03T19:00:00+06:00",
+                "text": "কর্তৃপক্ষের বিজ্ঞপ্তি যুক্ত করা হয়েছে"
+            }
+        ]
+    },
+    {
+        "id": "n-0002",
+        "slug": "budget-allocation-explained",
+        "title": "বাজেট বরাদ্দ: কোন খাতে বেড়েছে, কোথায় কমেছে",
+        "summary": "প্রকাশিত নথির তুলনায় খাতওয়ারি বরাদ্দের পরিবর্তনের একটি বিশ্লেষণ।",
+        "content": [
+            "গত বছরের তুলনায় শিক্ষা ও স্বাস্থ্য খাতে বরাদ্দের অনুপাত কীভাবে বদলেছে, নথি ধরে তা দেখা হয়েছে।",
+            "এই বিশ্লেষণে সংখ্যাগুলো মূল নথির সঙ্গে মিলিয়ে নেওয়া হয়েছে; ব্যাখ্যা প্রতিবেদকের নিজস্ব।"
+        ],
+        "category": "economy",
+        "tags": ["বাজেট", "অর্থনীতি"],
+        "kind": "analysis",
+        "verification": "verified",
+        "image": {
+            "src": "https://picsum.photos/seed/budget-allocation-explained/1280/720",
+            "alt": "ডামি ছবি",
+            "width": 1280,
+            "height": 720,
+            "caption": "ডামি ছবি",
+            "credit": "ছবি: Picsum (ডামি)"
+        },
+        "author": {
+            "id": "dummy-reporter",
+            "name": "ডামি প্রতিবেদক"
+        },
+        "publishedAt": "2026-10-03T15:00:00+06:00",
+        "sources": [
+            {
+                "name": "ডামি বাজেট নথি",
+                "type": "document",
+                "url": "https://example.com/budget-allocation-explained"
+            }
+        ],
+        "featured": true,
+        "breaking": false,
+        "status": "published",
+        "isDummy": true
+    },
+    {
+        "id": "n-0003",
+        "slug": "rice-price-monitoring",
+        "title": "বাজারে চালের দামের ওঠানামা নিয়ে নতুন পর্যবেক্ষণ",
+        "summary": "কয়েকটি বাজারে এক সপ্তাহে দামের পরিবর্তন লক্ষ করা গেছে; তথ্য যাচাই চলছে।",
+        "content": [
+            "বিক্রেতাদের বক্তব্য অনুযায়ী সরবরাহের পরিবর্তনে দাম কিছুটা বেড়েছে।",
+            "সরকারি বাজার-তথ্যের সঙ্গে মিলিয়ে দেখার কাজ চলছে, যাচাই শেষে প্রতিবেদন হালনাগাদ হবে।"
+        ],
+        "category": "economy",
+        "tags": ["বাজার", "চাল"],
+        "kind": "news",
+        "verification": "in_review",
+        "image": {
+            "src": "https://picsum.photos/seed/rice-price-monitoring/1280/720",
+            "alt": "ডামি ছবি",
+            "width": 1280,
+            "height": 720,
+            "caption": "ডামি ছবি",
+            "credit": "ছবি: Picsum (ডামি)"
+        },
+        "author": {
+            "id": "dummy-reporter",
+            "name": "ডামি প্রতিবেদক"
+        },
+        "publishedAt": "2026-10-03T13:00:00+06:00",
+        "sources": [
+            {
+                "name": "ডামি বাজার পরিদর্শন",
+                "type": "witness",
+                "url": "https://example.com/rice-price-monitoring"
+            }
+        ],
+        "featured": false,
+        "breaking": false,
+        "status": "published",
+        "isDummy": true
+    },
+    {
+        "id": "n-0004",
+        "slug": "school-term-calendar",
+        "title": "নতুন শিক্ষাবর্ষের ক্যালেন্ডার প্রকাশ",
+        "summary": "পরীক্ষা ও ছুটির তারিখসহ বার্ষিক ক্যালেন্ডার প্রকাশ করেছে শিক্ষা কর্তৃপক্ষ।",
+        "content": [
+            "ক্যালেন্ডারে বছরের প্রধান পরীক্ষাগুলোর সম্ভাব্য সময় আলাদা করে উল্লেখ করা হয়েছে।",
+            "স্কুলগুলোকে স্থানীয় প্রয়োজনে সীমিত পরিবর্তনের সুযোগ দেওয়া হয়েছে।"
+        ],
+        "category": "education",
+        "tags": ["শিক্ষা", "ক্যালেন্ডার"],
+        "kind": "news",
+        "verification": "verified",
+        "image": {
+            "src": "https://picsum.photos/seed/school-term-calendar/1280/720",
+            "alt": "ডামি ছবি",
+            "width": 1280,
+            "height": 720,
+            "caption": "ডামি ছবি",
+            "credit": "ছবি: Picsum (ডামি)"
+        },
+        "author": {
+            "id": "dummy-reporter",
+            "name": "ডামি প্রতিবেদক"
+        },
+        "publishedAt": "2026-10-03T11:00:00+06:00",
+        "sources": [
+            {
+                "name": "ডামি শিক্ষা বিজ্ঞপ্তি",
+                "type": "official",
+                "url": "https://example.com/school-term-calendar"
+            }
+        ],
+        "featured": false,
+        "breaking": false,
+        "status": "published",
+        "isDummy": true
+    },
+    {
+        "id": "n-0005",
+        "slug": "dengue-awareness",
+        "title": "ডেঙ্গু সচেতনতা: বাড়ির আশপাশে জমা পানি পরিষ্কারের নির্দেশনা",
+        "summary": "স্বাস্থ্য কর্তৃপক্ষ নাগরিকদের জন্য প্রতিরোধমূলক নির্দেশনা প্রকাশ করেছে।",
+        "content": [
+            "নির্দেশনায় বলা হয়েছে, ফুলের টব, পুরোনো টায়ার ও ছাদে জমা পানি সপ্তাহে অন্তত একবার ফেলে দিতে হবে।",
+            "জ্বর হলে নিজে ওষুধ না খেয়ে চিকিৎসকের পরামর্শ নেওয়ার কথাও বলা হয়েছে।"
+        ],
+        "category": "health",
+        "tags": ["স্বাস্থ্য", "ডেঙ্গু"],
+        "kind": "news",
+        "verification": "verified",
+        "image": {
+            "src": "https://picsum.photos/seed/dengue-awareness/1280/720",
+            "alt": "ডামি ছবি",
+            "width": 1280,
+            "height": 720,
+            "caption": "ডামি ছবি",
+            "credit": "ছবি: Picsum (ডামি)"
+        },
+        "author": {
+            "id": "dummy-reporter",
+            "name": "ডামি প্রতিবেদক"
+        },
+        "publishedAt": "2026-10-03T08:00:00+06:00",
+        "sources": [
+            {
+                "name": "ডামি স্বাস্থ্য নির্দেশিকা",
+                "type": "official",
+                "url": "https://example.com/dengue-awareness"
+            }
+        ],
+        "featured": false,
+        "breaking": false,
+        "status": "published",
+        "isDummy": true
+    },
+    {
+        "id": "n-0006",
+        "slug": "open-data-portal",
+        "title": "সরকারি তথ্য উন্মুক্ত করতে নতুন পোর্টালের পরিকল্পনা",
+        "summary": "সাধারণ মানুষ যাতে তথ্য খুঁজে পায়, সে জন্য একটি উন্মুক্ত তথ্য পোর্টালের প্রস্তাব এসেছে।",
+        "content": [
+            "প্রস্তাবে বলা হয়েছে, বাজেট, প্রকল্প ও ক্রয়ের তথ্য যন্ত্রপাঠযোগ্য ফরম্যাটে দেওয়া হবে।",
+            "পোর্টালটি কবে চালু হবে, তার নির্দিষ্ট সময় এখনো জানানো হয়নি।"
+        ],
+        "category": "technology",
+        "tags": ["ওপেন ডেটা", "প্রযুক্তি"],
+        "kind": "news",
+        "verification": "verified",
+        "image": {
+            "src": "https://picsum.photos/seed/open-data-portal/1280/720",
+            "alt": "ডামি ছবি",
+            "width": 1280,
+            "height": 720,
+            "caption": "ডামি ছবি",
+            "credit": "ছবি: Picsum (ডামি)"
+        },
+        "author": {
+            "id": "dummy-reporter",
+            "name": "ডামি প্রতিবেদক"
+        },
+        "publishedAt": "2026-10-03T06:00:00+06:00",
+        "sources": [
+            {
+                "name": "ডামি প্রস্তাবনা",
+                "type": "document",
+                "url": "https://example.com/open-data-portal"
+            }
+        ],
+        "featured": false,
+        "breaking": false,
+        "status": "published",
+        "isDummy": true
+    },
+    {
+        "id": "n-0007",
+        "slug": "cricket-series-preview",
+        "title": "ঘরোয়া ক্রিকেট সিরিজের আগে দলগুলোর প্রস্তুতি",
+        "summary": "সিরিজ শুরুর আগে অনুশীলন ও দল নির্বাচনে ব্যস্ত সময় পার করছে দলগুলো।",
+        "content": [
+            "কোচদের মতে, সিরিজের প্রথম দুই ম্যাচে মাঠের অবস্থা বড় ভূমিকা রাখতে পারে।",
+            "সূচি ও ভেন্যুর তালিকা আয়োজকদের ওয়েবসাইটে দেওয়া হয়েছে।"
+        ],
+        "category": "sports",
+        "tags": ["ক্রিকেট", "খেলা"],
+        "kind": "news",
+        "verification": "verified",
+        "image": {
+            "src": "https://picsum.photos/seed/cricket-series-preview/1280/720",
+            "alt": "ডামি ছবি",
+            "width": 1280,
+            "height": 720,
+            "caption": "ডামি ছবি",
+            "credit": "ছবি: Picsum (ডামি)"
+        },
+        "author": {
+            "id": "dummy-reporter",
+            "name": "ডামি প্রতিবেদক"
+        },
+        "publishedAt": "2026-10-03T04:00:00+06:00",
+        "sources": [
+            {
+                "name": "ডামি আয়োজক বিবৃতি",
+                "type": "official",
+                "url": "https://example.com/cricket-series-preview"
+            }
+        ],
+        "featured": false,
+        "breaking": false,
+        "status": "published",
+        "isDummy": true
+    },
+    {
+        "id": "n-0008",
+        "slug": "road-project-spending",
+        "title": "একটি সড়ক প্রকল্পের ব্যয়ের হিসাবে অসংগতি, নথিতে যা পাওয়া গেছে",
+        "summary": "দুটি নথির ব্যয়ের অঙ্কে মিল নেই; সংশ্লিষ্ট পক্ষের বক্তব্য নেওয়ার চেষ্টা চলছে।",
+        "content": [
+            "প্রকল্পের প্রাথমিক নথি ও পরবর্তী হিসাবের মধ্যে ব্যয়ের অঙ্কে পার্থক্য দেখা গেছে। এটি এখনো অভিযোগ, প্রমাণিত অনিয়ম নয়।",
+            "কর্তৃপক্ষের ব্যাখ্যা পাওয়া গেলে তা এই প্রতিবেদনে যুক্ত করা হবে।"
+        ],
+        "category": "investigation",
+        "tags": ["প্রকল্প", "ব্যয়"],
+        "kind": "news",
+        "verification": "in_review",
+        "image": {
+            "src": "https://picsum.photos/seed/road-project-spending/1280/720",
+            "alt": "ডামি ছবি",
+            "width": 1280,
+            "height": 720,
+            "caption": "ডামি ছবি",
+            "credit": "ছবি: Picsum (ডামি)"
+        },
+        "author": {
+            "id": "dummy-reporter",
+            "name": "ডামি প্রতিবেদক"
+        },
+        "publishedAt": "2026-10-03T00:00:00+06:00",
+        "sources": [
+            {
+                "name": "ডামি প্রকল্প নথি",
+                "type": "document",
+                "url": "https://example.com/road-project-spending"
+            }
+        ],
+        "featured": true,
+        "breaking": true,
+        "status": "published",
+        "isDummy": true
+    },
+    {
+        "id": "n-0009",
+        "slug": "committee-transparency-meeting",
+        "title": "সংসদীয় কমিটির বৈঠকে স্বচ্ছতা বিষয়ে আলোচনা",
+        "summary": "বৈঠকের কার্যবিবরণী অনুযায়ী তথ্য প্রকাশের নিয়ম নিয়ে আলোচনা হয়েছে।",
+        "content": [
+            "কার্যবিবরণীতে বলা হয়েছে, কমিটির সদস্যরা তথ্য প্রকাশের সময়সীমা নির্দিষ্ট করার প্রস্তাব দেন।",
+            "কোনো সিদ্ধান্ত চূড়ান্ত হয়নি; পরবর্তী বৈঠকে বিষয়টি আবার উঠবে।"
+        ],
+        "category": "politics",
+        "tags": ["সংসদ", "স্বচ্ছতা"],
+        "kind": "news",
+        "verification": "verified",
+        "image": {
+            "src": "https://picsum.photos/seed/committee-transparency-meeting/1280/720",
+            "alt": "ডামি ছবি",
+            "width": 1280,
+            "height": 720,
+            "caption": "ডামি ছবি",
+            "credit": "ছবি: Picsum (ডামি)"
+        },
+        "author": {
+            "id": "dummy-reporter",
+            "name": "ডামি প্রতিবেদক"
+        },
+        "publishedAt": "2026-10-02T22:00:00+06:00",
+        "sources": [
+            {
+                "name": "ডামি কার্যবিবরণী",
+                "type": "document",
+                "url": "https://example.com/committee-transparency-meeting"
+            }
+        ],
+        "featured": false,
+        "breaking": false,
+        "status": "published",
+        "isDummy": true
+    },
+    {
+        "id": "n-0010",
+        "slug": "fact-check-viral-claim",
+        "title": "ফ্যাক্ট-চেক: ভাইরাল দাবির সঙ্গে প্রকাশিত নথির মিল নেই",
+        "summary": "সামাজিক মাধ্যমে ছড়ানো একটি পরিসংখ্যান মূল নথির সঙ্গে মিলিয়ে দেখা হয়েছে।",
+        "content": [
+            "দাবিতে উল্লেখ করা অঙ্কটি মূল নথিতে পাওয়া যায়নি; নথির অঙ্ক ভিন্ন।",
+            "দাবিটির উৎস কে, তা এখনো নিশ্চিত করা যায়নি।"
+        ],
+        "category": "bangladesh",
+        "tags": ["ফ্যাক্ট-চেক", "সামাজিক মাধ্যম"],
+        "kind": "fact_check",
+        "verification": "verified",
+        "image": {
+            "src": "https://picsum.photos/seed/fact-check-viral-claim/1280/720",
+            "alt": "ডামি ছবি",
+            "width": 1280,
+            "height": 720,
+            "caption": "ডামি ছবি",
+            "credit": "ছবি: Picsum (ডামি)"
+        },
+        "author": {
+            "id": "dummy-reporter",
+            "name": "ডামি প্রতিবেদক"
+        },
+        "publishedAt": "2026-10-02T18:00:00+06:00",
+        "sources": [
+            {
+                "name": "ডামি মূল নথি",
+                "type": "document",
+                "url": "https://example.com/fact-check-viral-claim"
+            }
+        ],
+        "featured": false,
+        "breaking": false,
+        "status": "published",
+        "isDummy": true,
+        "updatedAt": "2026-10-03T00:00:00+06:00",
+        "corrections": [
+            {
+                "at": "2026-10-03T00:00:00+06:00",
+                "text": "আগের সংস্করণে নথির তারিখ ভুল লেখা হয়েছিল। সঠিক তারিখ যুক্ত করা হয়েছে।"
+            }
+        ]
+    },
+    {
+        "id": "n-0011",
+        "slug": "world-climate-talks",
+        "title": "জলবায়ু আলোচনায় অর্থায়নের প্রশ্নে মতভেদ",
+        "summary": "আলোচনার শেষ দিনে অর্থায়নের পরিমাণ নিয়ে দেশগুলোর অবস্থান আলাদা ছিল।",
+        "content": [
+            "প্রকাশিত খসড়ায় অর্থায়নের লক্ষ্যমাত্রা নিয়ে একাধিক বিকল্প রাখা হয়েছে।",
+            "চূড়ান্ত সিদ্ধান্তের জন্য আগামী বছর আবার বৈঠক হবে।"
+        ],
+        "category": "world",
+        "tags": ["জলবায়ু", "আন্তর্জাতিক"],
+        "kind": "news",
+        "verification": "verified",
+        "image": {
+            "src": "https://picsum.photos/seed/world-climate-talks/1280/720",
+            "alt": "ডামি ছবি",
+            "width": 1280,
+            "height": 720,
+            "caption": "ডামি ছবি",
+            "credit": "ছবি: Picsum (ডামি)"
+        },
+        "author": {
+            "id": "dummy-reporter",
+            "name": "ডামি প্রতিবেদক"
+        },
+        "publishedAt": "2026-10-02T14:00:00+06:00",
+        "sources": [
+            {
+                "name": "ডামি আন্তর্জাতিক সূত্র",
+                "type": "secondary",
+                "url": "https://example.com/world-climate-talks"
+            }
+        ],
+        "featured": false,
+        "breaking": false,
+        "status": "published",
+        "isDummy": true
+    },
+    {
+        "id": "n-0012",
+        "slug": "opinion-open-records",
+        "title": "মতামত: তথ্য চাওয়ার অধিকার কেন প্রতিদিনের বিষয়",
+        "summary": "একজন লেখকের মতে, নাগরিকের তথ্য চাওয়ার অভ্যাস শাসনের মান বদলাতে পারে।",
+        "content": [
+            "লেখকের যুক্তি, ছোট স্থানীয় সিদ্ধান্তের তথ্য চাইলেও জবাবদিহির সংস্কৃতি গড়ে ওঠে।",
+            "এটি লেখকের ব্যক্তিগত মত, সংবাদ প্রতিবেদন নয়।"
+        ],
+        "category": "opinion",
+        "tags": ["মতামত", "তথ্য অধিকার"],
+        "kind": "opinion",
+        "verification": "not_applicable",
+        "image": {
+            "src": "https://picsum.photos/seed/opinion-open-records/1280/720",
+            "alt": "ডামি ছবি",
+            "width": 1280,
+            "height": 720,
+            "caption": "ডামি ছবি",
+            "credit": "ছবি: Picsum (ডামি)"
+        },
+        "author": {
+            "id": "dummy-writer",
+            "name": "ডামি লেখক"
+        },
+        "publishedAt": "2026-10-02T10:00:00+06:00",
+        "sources": [
+            {
+                "name": "লেখকের নিজস্ব বিশ্লেষণ",
+                "type": "secondary",
+                "url": "https://example.com/opinion-open-records"
+            }
+        ],
+        "featured": false,
+        "breaking": false,
+        "status": "published",
+        "isDummy": true
+    },
+    {
+        "id": "n-0013",
+        "slug": "ai-tools-in-newsrooms",
+        "title": "সংবাদকক্ষে এআই: কোথায় সাহায্য, কোথায় ঝুঁকি",
+        "summary": "সারসংক্ষেপ ও অনুবাদে এআই কাজে লাগে, কিন্তু যাচাইয়ের দায়িত্ব মানুষেরই।",
+        "content": [
+            "বিশ্লেষণে দেখা গেছে, এআই-এর খসড়া থেকে ভুল তথ্য ঢুকে পড়ার ঝুঁকি থেকেই যায়।",
+            "তাই প্রকাশের আগে মানুষের যাচাই বাধ্যতামূলক রাখার পরামর্শ দেওয়া হয়েছে।"
+        ],
+        "category": "technology",
+        "tags": ["এআই", "সংবাদমাধ্যম"],
+        "kind": "analysis",
+        "verification": "verified",
+        "image": {
+            "src": "https://picsum.photos/seed/ai-tools-in-newsrooms/1280/720",
+            "alt": "ডামি ছবি",
+            "width": 1280,
+            "height": 720,
+            "caption": "ডামি ছবি",
+            "credit": "ছবি: Picsum (ডামি)"
+        },
+        "author": {
+            "id": "dummy-reporter",
+            "name": "ডামি প্রতিবেদক"
+        },
+        "publishedAt": "2026-10-02T06:00:00+06:00",
+        "sources": [
+            {
+                "name": "ডামি গবেষণা প্রতিবেদন",
+                "type": "secondary",
+                "url": "https://example.com/ai-tools-in-newsrooms"
+            }
+        ],
+        "featured": false,
+        "breaking": false,
+        "status": "published",
+        "isDummy": true
+    },
+    {
+        "id": "n-0014",
+        "slug": "football-league-roundup",
+        "title": "লিগ ফুটবলে সপ্তাহের ফলাফল ও পয়েন্ট তালিকা",
+        "summary": "এই সপ্তাহের ম্যাচ শেষে শীর্ষ চার দলের অবস্থান বদলেছে।",
+        "content": [
+            "দুটি ম্যাচ ড্র হওয়ায় তালিকার দ্বিতীয় থেকে চতুর্থ স্থানের ব্যবধান কমেছে।",
+            "আগামী সপ্তাহে দুটি গুরুত্বপূর্ণ ম্যাচ অনুষ্ঠিত হবে।"
+        ],
+        "category": "sports",
+        "tags": ["ফুটবল", "খেলা"],
+        "kind": "news",
+        "verification": "verified",
+        "image": {
+            "src": "https://picsum.photos/seed/football-league-roundup/1280/720",
+            "alt": "ডামি ছবি",
+            "width": 1280,
+            "height": 720,
+            "caption": "ডামি ছবি",
+            "credit": "ছবি: Picsum (ডামি)"
+        },
+        "author": {
+            "id": "dummy-reporter",
+            "name": "ডামি প্রতিবেদক"
+        },
+        "publishedAt": "2026-10-02T00:00:00+06:00",
+        "sources": [
+            {
+                "name": "ডামি লিগ কর্তৃপক্ষ",
+                "type": "official",
+                "url": "https://example.com/football-league-roundup"
+            }
+        ],
+        "featured": false,
+        "breaking": false,
+        "status": "published",
+        "isDummy": true
+    },
+    {
+        "id": "n-0015",
+        "slug": "river-erosion-report",
+        "title": "নদীভাঙনে ক্ষতিগ্রস্ত পরিবারের তালিকা হালনাগাদ",
+        "summary": "স্থানীয় প্রশাসন ক্ষতিগ্রস্ত পরিবারের নতুন তালিকা প্রকাশ করেছে।",
+        "content": [
+            "তালিকায় নতুন যুক্ত হওয়া পরিবারগুলোকে যাচাই শেষে সহায়তা দেওয়ার কথা বলা হয়েছে।",
+            "তালিকায় নাম না থাকলে আপত্তি জানানোর জন্য নির্দিষ্ট সময় রাখা হয়েছে।"
+        ],
+        "category": "bangladesh",
+        "tags": ["নদীভাঙন", "স্থানীয় প্রশাসন"],
+        "kind": "news",
+        "verification": "verified",
+        "image": {
+            "src": "https://picsum.photos/seed/river-erosion-report/1280/720",
+            "alt": "ডামি ছবি",
+            "width": 1280,
+            "height": 720,
+            "caption": "ডামি ছবি",
+            "credit": "ছবি: Picsum (ডামি)"
+        },
+        "author": {
+            "id": "dummy-reporter",
+            "name": "ডামি প্রতিবেদক"
+        },
+        "publishedAt": "2026-10-01T18:00:00+06:00",
+        "sources": [
+            {
+                "name": "ডামি প্রশাসনিক বিজ্ঞপ্তি",
+                "type": "official",
+                "url": "https://example.com/river-erosion-report"
+            }
+        ],
+        "featured": false,
+        "breaking": false,
+        "status": "published",
+        "isDummy": true
+    },
+    {
+        "id": "n-0016",
+        "slug": "vaccine-schedule-update",
+        "title": "শিশুদের টিকার নতুন সময়সূচি প্রকাশ",
+        "summary": "স্বাস্থ্য কর্তৃপক্ষ টিকাদান কর্মসূচির সংশোধিত সূচি জানিয়েছে।",
+        "content": [
+            "সংশোধিত সূচিতে কয়েকটি টিকার বিরতি আগের চেয়ে সামান্য বদলানো হয়েছে।",
+            "অভিভাবকদের স্থানীয় স্বাস্থ্যকেন্দ্র থেকে সূচি নিশ্চিত করতে বলা হয়েছে।"
+        ],
+        "category": "health",
+        "tags": ["টিকা", "স্বাস্থ্য"],
+        "kind": "news",
+        "verification": "verified",
+        "image": {
+            "src": "https://picsum.photos/seed/vaccine-schedule-update/1280/720",
+            "alt": "ডামি ছবি",
+            "width": 1280,
+            "height": 720,
+            "caption": "ডামি ছবি",
+            "credit": "ছবি: Picsum (ডামি)"
+        },
+        "author": {
+            "id": "dummy-reporter",
+            "name": "ডামি প্রতিবেদক"
+        },
+        "publishedAt": "2026-10-01T14:00:00+06:00",
+        "sources": [
+            {
+                "name": "ডামি স্বাস্থ্য বিজ্ঞপ্তি",
+                "type": "official",
+                "url": "https://example.com/vaccine-schedule-update"
+            }
+        ],
+        "featured": false,
+        "breaking": false,
+        "status": "published",
+        "isDummy": true
+    },
+    {
+        "id": "n-0017",
+        "slug": "transport-fare-dispute",
+        "title": "ভাড়া নিয়ে পরিবহন মালিক ও যাত্রীদের পরস্পরবিরোধী দাবি",
+        "summary": "ভাড়া বাড়ানো হয়েছে কি না, এ নিয়ে দুই পক্ষের বক্তব্য মিলছে না।",
+        "content": [
+            "কয়েকজন যাত্রী দাবি করেছেন নির্ধারিত ভাড়ার চেয়ে বেশি নেওয়া হচ্ছে; এই দাবি স্বাধীনভাবে যাচাই করা যায়নি।",
+            "পরিবহন মালিক সমিতির একজন প্রতিনিধি দাবিটি অস্বীকার করেছেন।"
+        ],
+        "category": "society",
+        "tags": ["পরিবহন", "ভাড়া"],
+        "kind": "news",
+        "verification": "unverified",
+        "image": {
+            "src": "https://picsum.photos/seed/transport-fare-dispute/1280/720",
+            "alt": "ডামি ছবি",
+            "width": 1280,
+            "height": 720,
+            "caption": "ডামি ছবি",
+            "credit": "ছবি: Picsum (ডামি)"
+        },
+        "author": {
+            "id": "dummy-reporter",
+            "name": "ডামি প্রতিবেদক"
+        },
+        "publishedAt": "2026-10-01T10:00:00+06:00",
+        "sources": [
+            {
+                "name": "ডামি যাত্রী বক্তব্য",
+                "type": "witness",
+                "url": "https://example.com/transport-fare-dispute"
+            }
+        ],
+        "featured": false,
+        "breaking": false,
+        "status": "published",
+        "isDummy": true
+    },
+    {
+        "id": "n-0018",
+        "slug": "university-admission-process",
+        "title": "বিশ্ববিদ্যালয় ভর্তি প্রক্রিয়ায় আবেদনের নতুন ধাপ",
+        "summary": "ভর্তি আবেদনে এ বছর একটি অতিরিক্ত অনলাইন ধাপ যুক্ত হয়েছে।",
+        "content": [
+            "বিজ্ঞপ্তি অনুযায়ী আবেদনকারীদের প্রথমে নিবন্ধন করে পরে পছন্দের তালিকা জমা দিতে হবে।",
+            "সহায়তার জন্য আলাদা হেল্পলাইন চালু করা হয়েছে।"
+        ],
+        "category": "education",
+        "tags": ["ভর্তি", "বিশ্ববিদ্যালয়"],
+        "kind": "news",
+        "verification": "verified",
+        "image": {
+            "src": "https://picsum.photos/seed/university-admission-process/1280/720",
+            "alt": "ডামি ছবি",
+            "width": 1280,
+            "height": 720,
+            "caption": "ডামি ছবি",
+            "credit": "ছবি: Picsum (ডামি)"
+        },
+        "author": {
+            "id": "dummy-reporter",
+            "name": "ডামি প্রতিবেদক"
+        },
+        "publishedAt": "2026-10-01T04:00:00+06:00",
+        "sources": [
+            {
+                "name": "ডামি ভর্তি বিজ্ঞপ্তি",
+                "type": "official",
+                "url": "https://example.com/university-admission-process"
+            }
+        ],
+        "featured": false,
+        "breaking": false,
+        "status": "published",
+        "isDummy": true
+    },
+    {
+        "id": "n-0019",
+        "slug": "remittance-trend-analysis",
+        "title": "প্রবাসী আয়ের ধারা: মাসওয়ারি তথ্যে কী বোঝা যায়",
+        "summary": "গত কয়েক মাসের প্রকাশিত তথ্য ধরে আয়ের গতিপ্রকৃতির বিশ্লেষণ।",
+        "content": [
+            "প্রকাশিত মাসিক তথ্যে উৎসবের আগে আয় বাড়ার একটি ধারা দেখা যায়।",
+            "তবে মাত্র কয়েক মাসের তথ্য দিয়ে দীর্ঘমেয়াদি সিদ্ধান্তে পৌঁছানো ঠিক হবে না।"
+        ],
+        "category": "economy",
+        "tags": ["প্রবাসী আয়", "অর্থনীতি"],
+        "kind": "analysis",
+        "verification": "verified",
+        "image": {
+            "src": "https://picsum.photos/seed/remittance-trend-analysis/1280/720",
+            "alt": "ডামি ছবি",
+            "width": 1280,
+            "height": 720,
+            "caption": "ডামি ছবি",
+            "credit": "ছবি: Picsum (ডামি)"
+        },
+        "author": {
+            "id": "dummy-reporter",
+            "name": "ডামি প্রতিবেদক"
+        },
+        "publishedAt": "2026-09-30T20:00:00+06:00",
+        "sources": [
+            {
+                "name": "ডামি পরিসংখ্যান",
+                "type": "document",
+                "url": "https://example.com/remittance-trend-analysis"
+            }
+        ],
+        "featured": false,
+        "breaking": false,
+        "status": "published",
+        "isDummy": true
+    },
+    {
+        "id": "n-0020",
+        "slug": "opinion-reading-habit",
+        "title": "মতামত: খবর পড়ার আগে তিনটি প্রশ্ন করুন",
+        "summary": "একজন লেখকের পরামর্শ, খবর শেয়ার করার আগে উৎস, তারিখ ও প্রমাণ দেখে নিন।",
+        "content": [
+            "লেখকের মতে, শিরোনাম পড়ে শেয়ার করার অভ্যাস ভুল তথ্য ছড়ানোর বড় কারণ।",
+            "এটি লেখকের ব্যক্তিগত মত।"
+        ],
+        "category": "opinion",
+        "tags": ["মতামত", "সংবাদ সাক্ষরতা"],
+        "kind": "opinion",
+        "verification": "not_applicable",
+        "image": {
+            "src": "https://picsum.photos/seed/opinion-reading-habit/1280/720",
+            "alt": "ডামি ছবি",
+            "width": 1280,
+            "height": 720,
+            "caption": "ডামি ছবি",
+            "credit": "ছবি: Picsum (ডামি)"
+        },
+        "author": {
+            "id": "dummy-writer",
+            "name": "ডামি লেখক"
+        },
+        "publishedAt": "2026-09-30T12:00:00+06:00",
+        "sources": [
+            {
+                "name": "লেখকের নিজস্ব বিশ্লেষণ",
+                "type": "secondary",
+                "url": "https://example.com/opinion-reading-habit"
+            }
+        ],
+        "featured": false,
+        "breaking": false,
+        "status": "published",
+        "isDummy": true
+    }
+]
